@@ -1,0 +1,11 @@
+.image-item-container {
+  display: flex;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
+.thumbnail-style {
+  width: 100px;
+  margin: 10px;
+}
